@@ -1,3 +1,16 @@
+---
+geometry:
+  - a4paper
+  - left=3cm
+  - right=2cm
+  - top=2.5cm
+  - bottom=3cm
+  - includefoot # include spazio piede pagina nei calcoli
+---
+
+# La nascita del Sistema Tonale
+
+
 ### **Slide: Dal "modo" al "centro"**
 
 Il sistema modale, ereditato dall'antica Grecia e teorizzato da Pitagora, fu il pilastro della musica occidentale per secoli, dal canto gregoriano alla polifonia rinascimentale . Questo sistema organizzava i suoni in **scale melodiche** (i "modi"), ciascuna con una diversa distribuzione di toni e semitoni. La sensibilità musicale dell'epoca era orientata alla consonanza: il tritono (l'intervallo di tre toni interi) era addirittura evitato e chiamato *"Diabolus in musica"* .
@@ -5,6 +18,7 @@ Il sistema modale, ereditato dall'antica Grecia e teorizzato da Pitagora, fu il 
 La grande rivoluzione, iniziata nel Rinascimento e completata nel Barocco, fu il passaggio da una logica **orizzontale** (la successione melodica dei suoni) a una **verticale e gerarchica**. Il "centro" di un brano non era più definito principalmente dalla sua scala melodica, ma da un vero e proprio **campo gravitazionale armonico** creato dagli accordi. La sensibilità si spostò: dissonanze come il tritono non vennero più evitate, ma acquisirono una **funzione strutturale** di tensione, aprendo la strada alla modulazione tra tonalità diverse .
 
 *Tabella riassuntiva dell'evoluzione:*
+
 | **Caratteristica** | **Sistema Modale (fino al XVI sec.)** | **Sistema Tonale (dal XVII sec.)** |
 | :--- | :--- | :--- |
 | **Struttura** | Scale melodiche (8 modi) | Scala diatonica maggiore/minore |

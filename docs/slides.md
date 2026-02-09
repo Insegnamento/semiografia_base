@@ -10,8 +10,6 @@ navigation: empty
 section-titles: true
 fontsize: 10pt
 lang: it
-header-includes:
-  - \usepackage{styles/tikz-commands}
 ---
 
 # **1. TRADIZIONE ORALE (fino all'VIII secolo d.C.)**
@@ -159,3 +157,6 @@ header-includes:
 5. Notazione rotonda moderna (XVI-XVII sec.)
 
 
+# Pentagramma - Estensione delle note
+
+![](assets/images/007.png)
