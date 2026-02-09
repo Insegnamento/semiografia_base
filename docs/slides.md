@@ -14,150 +14,148 @@ header-includes:
   - \usepackage{styles/tikz-commands}
 ---
 
-# La Notazione Musicale Occidentale
+# **1. TRADIZIONE ORALE (fino all'VIII secolo d.C.)**
+- La musica viene tramandata esclusivamente per via orale da maestro a discepolo
+- Sant'Isidoro di Siviglia (560-636): *"se i suoni non sono appresi a memoria dall'uomo, scompaiono, perché non si possono scrivere"*
+- I codici liturgici contengono solo testi, senza alcuna notazione musicale
+
+# **2. PRIME SCRITTURE MUSICALI - NOTAZIONE PALEOFRANCA (IX secolo, 801-900)**
+
+::: columns
+:::: column
+- Primi tentativi di scrittura musicale
+- Compaiono segni posti a margine dei testi (spesso strofe di poesia classica)
+- Ancora non esiste una rappresentazione precisa della melodia
+::::
+
+:::: column
+![](assets/images/001.jpg)
+::::
+:::
+
+# **3. NEUMI ADIASTEMATICI (X secolo, 901-1000)**
+- **Codex Sangallensis 359 di San Gallo (930 d.C.)**: il più antico codice musicale notato
+- Utilizzo di **neumi** (segni) e **litterae significativae** (lettere aggiuntive)
+- **Notazione adiastemica**: non indica il valore degli intervalli tra i suoni, né l'altezza precisa delle note, né il ritmo
+- I codici fornivano indicazioni musicali solo a chi già conosceva bene il brano
+- Funzione: consultazione e insegnamento, non esecuzione diretta
+
+# **4. INVENZIONE DEL RIGO MUSICALE (XI secolo, 1001-1100)**
+
+::: columns
+:::: column
+- Progressiva introduzione del rigo come riferimento spaziale
+- Inizialmente **due linee colorate**: una **rossa per il Fa**, una **gialla per il Do**
+- Le note iniziano a rappresentare:
+  - **Durata** (in base alla forma)
+  - **Altezza relativa** (in base alla posizione rispetto al rigo)
+::::
+
+:::: column
+![](assets/images/002.jpg){width=50%}
+::::
+:::
+
+# **4.1 INVENZIONE DEL RIGO MUSICALE (XI secolo, 1001-1100)**
+
+::: columns
+:::: column
+![](assets/images/005.jpg){width=80%}
+::::
+
+:::: column
+![](assets/images/006.png){width=100%}
+::::
+:::
 
 
-**Tre pilastri fondamentali:**
 
-1.  Il **Pentagramma**
-2.  La **Semiografia**
-3.  Il **Sistema Tonale**
+# **5. TETRAGRAMMA DI GUIDO D'AREZZO (XI secolo)**
 
 
-# Il Pentagramma: perché proprio 5 righi?
+::: columns
+:::: column
+- **Guido d'Arezzo** (Guido monaco): perfeziona il **tetragramma** (4 linee)
+- Codifica la notazione, definendo posizioni precise delle note su righe e spazi
+- Inventa il nome delle note: **Ut, Re, Mi, Fa, Sol, La, Si**
+- **Notazione quadrata**: adatta per il canto gregoriano (estensione vocale limitata)
+- Sistema unificato per la scrittura musicale
 
-## Un equilibrio storico
+::::
 
-L'origine del **pentagramma** a 5 linee non è casuale, ma il risultato di un'**evoluzione graduale** alla ricerca del miglior compromesso tra estensione e leggibilità.
+:::: column
+![](assets/images/003.png)
+::::
+:::
 
-\vspace{5mm}
-in ordine: 
+# **6. NOTAZIONE MENSURALE (XIII secolo)**
 
-- Neumi senza rigo, 
-- 1-2 linee, 
-- Tetragramma (Guido), 
-- Pentagramma (Ugolino), 
-- Standard moderno
 
-# Il Pentagramma: perché proprio 5 righi?
+::: columns
+:::: column
+- Con la **polifonia** nasce l'esigenza di misurare il tempo
+- **Franco di Colonia** (*Ars cantus mensurabilis*, ~1280): codifica le prime figure di durata
+- Compare il **gambo** per distinguere le note più brevi (semibrevis, minima)
+- Forme mensurali: **Maxima, Longa, Brevis** (testa quadrata piena)
 
-## Dalle necessità pratiche...
+::::
 
-- **XI secolo**: **Guido d'Arezzo** sistema il **tetragramma** (4 righe), ideale per l'estensione vocale del canto gregoriano.
-- **XIII-XV secolo**: La musica polifonica e strumentale richiede maggiore estensione.
-- **~1400**: **Ugolino da Forlì** formalizza il **pentagramma a 5 linee**.
+:::: column
+![](assets/images/004.jpg)
+::::
+:::
 
-# Il Pentagramma: perché proprio 5 righi?
 
-## ...alla soluzione ottimale
 
-### Perché **5** e non 4 o 6?
-| 4 Linee (Tetragramma) | **5 Linee (Pentagramma)** | 6+ Linee |
-| :--- | :--- | :--- |
-| Estensione limitata (~1 ottava) | **Copertura ottimale** (circa 1 ottava e mezza) | Troppa estensione |
-| Sufficiente per la voce | **Perfetto per voce e strumenti** | Bassa leggibilità |
-| – | **Chiarezza visiva**: linee/spazi ben distinti | Confusione visiva |
+# **7. PENTAGRAMMA (XV secolo, ~1400)**
+- **Ugolino da Orvieto** (o da Forlì, 1380-1457): aggiunge la **quinta linea**
+- Nasce il **pentagramma** (dal greco *penta* = cinque + *gramma* = scrittura)
+- Maggiore estensione rispetto al tetragramma, ideale per musica polifonica e strumentale
+- **Equilibrio ottimale** tra chiarezza visiva e capacità rappresentativa (~1 ottava e mezza)
 
-**Conclusione**: 5 linee rappresentano il **punto di equilibrio** tra chiarezza e capacità rappresentativa, diventando standard dal XVI secolo.
+# **8. NOTAZIONE MENSURALE BIANCA (XV secolo)**
 
-# L'evoluzione della Semiografia
+::: columns
+:::: column
+- Per **risparmiare tempo e inchiostro**, le note lunghe diventano **vuote**
+- Transizione dalla notazione nera (piena) a quella bianca (vuota)
 
-## Da suggerimento a misura precisa
+::::
 
-La forma delle note moderne (**testa rotonda e gambo**) è l'esito di un **lungo adattamento** delle esigenze compositive.
+:::: column
+![](assets/images/008.png)
+::::
+:::
 
-\vspace{5mm}
-in ordine: 
-- Neumi adiastematici, 
-- Notazione quadrata, 
-- Notazione mensurale, 
-- Notazione 'bianca', 
-- Note rotonde (stampa)
 
-# L'evoluzione della Semiografia
 
-## La rivoluzione della durata (XIII sec.)
+# **9. NOTAZIONE ROTONDA (XVI-XVII secolo)**
 
-Con la polifonia nasce l'esigenza di misurare il tempo: la **notazione mensurale**.
-- **Franco di Colonia** (*Ars cantus mensurabilis*, ~1280) codifica le prime figure di durata.
-- Compare il **gambo** per distinguere le note più brevi (semibrevis, minima).
-- Forme: **Maxima**, **Longa**, **Brevis** (testa quadrata piena).
+::: columns
+:::: column
+- **1501**: invenzione della **stampa musicale** (Ottaviano Petrucci)
+- L'uso della **penna d'oca** e la stampa favoriscono la forma **rotonda**
+- Note rotonde più pratiche da tracciare e stampare rispetto alle quadrate
+- **XVII secolo**: **standardizzazione** della testa rotonda con gambo laterale
+- Sistema chiaro, efficiente e universalmente leggibile
 
-# L'evoluzione della Semiografia
 
-## Economia d'inchiostro e rivoluzione tecnica
+::::
 
-- **XV secolo**: Per risparmiare tempo e inchiostro, le note lunghe diventano **vuote** (*notazione mensurale bianca*).
-- **Dal 1501**: La **stampa musicale** (Ottaviano Petrucci) e l'uso della penna d'oca favoriscono la forma **rotonda**, più pratica da tracciare e stampare.
-- **XVII secolo**: **Standardizzazione** della testa rotonda con gambo laterale.
+:::: column
+![](assets/images/009.png){width=70%}
+::::
+:::
 
-# L'evoluzione della Semiografia
 
-## Sintesi dell'evoluzione grafica
 
-in ordine:
+# **SINTESI DELL'EVOLUZIONE GRAFICA**
 
-- Neumi (IX-XI sec.)
-- Quadrata di Guido (XI sec.)
-- Mensurale (XIII sec.)
-- Bianca (XV sec.)
-- Rotonda (XVI-XVII sec.)
+**Cronologia:**
+1. Neumi adiastematici (IX-XI sec.)
+2. Notazione quadrata di Guido (XI sec.)
+3. Notazione mensurale nera (XIII sec.)
+4. Notazione mensurale bianca (XV sec.)
+5. Notazione rotonda moderna (XVI-XVII sec.)
 
-**Risultato**: un sistema chiaro, efficiente e universalmente leggibile.
-
-# La nascita del Sistema Tonale
-
-## Dal "modo" al "centro"
-
-Il sistema tonale sostituisce gradualmente i **modi medievali** con una struttura basata su un **centro gravitazionale** (tonica) e relazioni armoniche gerarchiche.
-
-in ordine:
-
-- Modalità (fino XVI sec.),
-- Semplificazione modale (Ionio/Eolio),
-- Teoria degli affetti,
-- Gerarchia tonale (I-IV-V),
-- Sistema tonale (Barocco)
-
-# La nascita del Sistema Tonale
-
-## Le forze motrici del cambiamento
-
-1.  **Esigenze espressive** (XVI-XVII sec.):
-    - La **Teoria degli affetti** e la **Camerata de' Bardi** cercano una musica più drammatica e capace di esprimere emozioni specifiche.
-2.  **Sviluppo teorico-scientifico**:
-    - Studi di acustica (eredità pitagorica ripresa da **Gioseffo Zarlino**, Cinquecento) "legittimano" la scala diatonica e le triadi come strutture "naturali".
-3.  **Semplificazione e gerarchia**:
-    - I 7 modi si riducono a due scale fondamentali: **Maggiore (Ionio)** e **Minore (Eolio)**.
-    - Si definiscono le **funzioni armoniche**: **Tonica (I)**, **Dominante (V)**, **Sottodominante (IV)**.
-    - La **cadenza perfetta (V-I)** diventa la formula conclusiva per eccellenza.
-
-# La nascita del Sistema Tonale
-
-## Una nuova grammatica musicale
-
-Il sistema tonale introduce un **dinamismo** completamente nuovo:
-
-- **Dissonanza funzionale**: Le dissonanze non sono più solo abbellimenti, ma creano **tensione** che richiede **risoluzione** (es. settima di dominante).
-- **Senso di direzione**: La musica è percepita come un viaggio dalla **tonica (stabilità)**, attraverso la tensione della **dominante**, e ritorno alla **tonica**.
-
-\begin{center}
-\LARGE \textbf{I (Stabile) → IV/V (Instabile/Teso) → I (Stabile)}
-\end{center}
-
-Questa "grammatica" dominò la musica occidentale dal Barocco al tardo Romanticismo.
-
-# Conclusione: un sistema coerente
-
-## Un'unica grande narrazione
-
-- Il **pentagramma** fornisce la **griglia universale** per rappresentare le altezze.
-- La **semiografia rotonda** offre l'**alfabeto preciso** per scrivere durate e eventi musicali.
-- Il **sistema tonale** definisce la **sintassi e la grammatica** che organizza i suoni in un discorso logico ed espressivo.
-
-**Insieme**, questi tre elementi formano le fondamenta della notazione musicale occidentale, permettendo la complessità e la diffusione della sua tradizione musicale.
-
-## Prossime tappe...
-
-Dalla crisi della tonalità (cromatismo wagneriano, atonalità) alle nuove notazioni del '900.
 
