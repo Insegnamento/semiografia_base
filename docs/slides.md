@@ -54,18 +54,6 @@ lang: it
 ::::
 :::
 
-# **4.1 INVENZIONE DEL RIGO MUSICALE (XI secolo, 1001-1100)**
-
-::: columns
-:::: column
-![](docs/assets/images/005.jpg){width=80%}
-::::
-
-:::: column
-![](docs/assets/images/006.png){width=100%}
-::::
-:::
-
 
 
 # **5. TETRAGRAMMA DI GUIDO D'AREZZO (XI secolo)**
@@ -85,6 +73,20 @@ lang: it
 ![](docs/assets/images/003.png)
 ::::
 :::
+
+# **5.1 INVENZIONE DEL RIGO MUSICALE (XI secolo, 1001-1100)**
+
+::: columns
+:::: column
+![](docs/assets/images/005.jpg){width=80%}
+::::
+
+:::: column
+![](docs/assets/images/006.png){width=100%}
+::::
+:::
+
+
 
 # **6. NOTAZIONE MENSURALE (XIII secolo)**
 
@@ -150,6 +152,7 @@ lang: it
 # **SINTESI DELL'EVOLUZIONE GRAFICA**
 
 **Cronologia:**
+
 1. Neumi adiastematici (IX-XI sec.)
 2. Notazione quadrata di Guido (XI sec.)
 3. Notazione mensurale nera (XIII sec.)
