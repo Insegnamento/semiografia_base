@@ -27,7 +27,7 @@ lang: it
 ::::
 
 :::: column
-![](assets/images/001.jpg)
+![](docs/assets/images/001.jpg)
 ::::
 :::
 
@@ -50,7 +50,7 @@ lang: it
 ::::
 
 :::: column
-![](assets/images/002.jpg){width=50%}
+![](docs/assets/images/002.jpg){width=50%}
 ::::
 :::
 
@@ -58,11 +58,11 @@ lang: it
 
 ::: columns
 :::: column
-![](assets/images/005.jpg){width=80%}
+![](docs/assets/images/005.jpg){width=80%}
 ::::
 
 :::: column
-![](assets/images/006.png){width=100%}
+![](docs/assets/images/006.png){width=100%}
 ::::
 :::
 
@@ -82,7 +82,7 @@ lang: it
 ::::
 
 :::: column
-![](assets/images/003.png)
+![](docs/assets/images/003.png)
 ::::
 :::
 
@@ -99,7 +99,7 @@ lang: it
 ::::
 
 :::: column
-![](assets/images/004.jpg)
+![](docs/assets/images/004.jpg)
 ::::
 :::
 
@@ -121,7 +121,7 @@ lang: it
 ::::
 
 :::: column
-![](assets/images/008.png)
+![](docs/assets/images/008.png)
 ::::
 :::
 
@@ -141,7 +141,7 @@ lang: it
 ::::
 
 :::: column
-![](assets/images/009.png){width=70%}
+![](docs/assets/images/009.png){width=70%}
 ::::
 :::
 
@@ -159,4 +159,4 @@ lang: it
 
 # Pentagramma - Estensione delle note
 
-![](assets/images/007.png)
+![](docs/assets/images/007.png)
