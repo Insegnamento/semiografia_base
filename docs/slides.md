@@ -74,7 +74,7 @@ lang: it
 ::::
 :::
 
-# **5.1 INVENZIONE DEL RIGO MUSICALE (XI secolo, 1001-1100)**
+# **5.1 NOTAZIONE TETRAGRAMMA**
 
 ::: columns
 :::: column
